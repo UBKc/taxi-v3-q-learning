@@ -1,0 +1,4 @@
+test bolumu: 1000
+basari orani: %100.0
+ortalama odul: 7.96
+ortalama adim: 13.04
